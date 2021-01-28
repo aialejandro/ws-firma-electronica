@@ -1,0 +1,69 @@
+<factura version="1.0.0" id="comprobante">
+<infoTributaria>
+<ambiente>1</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>DIEGO CASANOVA</razonSocial>
+<nombreComercial>DIEGO CASANOVA</nombreComercial>
+<ruc>0920198702001</ruc>
+<claveAcceso>1903201901092019870200110010010000000251234567811</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000000045</secuencial>
+<dirMatriz>PLAZA MADEIRA MZ 3 VILLA 10</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>19/03/2019</fechaEmision>
+<contribuyenteEspecial>mnumcont</contribuyenteEspecial>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>IVAN LOPEZ CHIRIBOGA                                                                                </razonSocialComprador>
+<identificacionComprador>0912904885001</identificacionComprador>
+<totalSinImpuestos>7500.00</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>7500.00</baseImponible>
+<valor>900.00</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>8400.00</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>8400.00</total>
+<plazo>0</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>2</codigoPrincipal>
+<codigoAuxiliar>2</codigoAuxiliar>
+<descripcion>PROYECTO DE REGENERACION URBANA  DE LA AV E GRAU</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>7500.00</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>7500.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>7500.00</baseImponible>
+<valor>900.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">Direccion: URB BONA TERRA MZ 6 SOLAR 9</campoAdicional>
+<campoAdicional nombre="Telefono">Telefono: 6014117</campoAdicional>
+<campoAdicional nombre="Nota">Nota: PRUEBAS VARIAS</campoAdicional>
+</infoAdicional>
+</factura>
